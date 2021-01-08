@@ -3,7 +3,7 @@ Public release of public data from Discord Scam Monitor.
 
 The data is formatted in a format similar to CSV. I had no idea which format I should use to release the data, but this is at least universal and easy to read.
 
-Each column is split using ;;, in name changes, each variable in the whole object is split using a single semicolon.
+Each column is split using _;;_ in name changes, each variable in the whole object is split using a single semicolon.
 
 There was some other data, such as debugging, lister/saver information, or notes. I'm not going to share this data, as it's not necessary. Vouches/reputation is also not included.
 
